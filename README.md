@@ -16,6 +16,15 @@ Train and convert the model to TFLite format:
 🤖 Trained Models
 - Located in broker/src/model/. These TFLite models are ready to run on microcontrollers for real-time inference.
 
+<p align="center">
+  <img src="/668_int.png" alt="Architecture Diagram" width="300"/>
+</p>
+
+<p align="center">
+  <img src="/668_float.png" alt="Architecture Diagram" width="300"/>
+</p>
+
+
 📜 License
 - This project is released under the MIT License.
 - Please contact laulpt@gmail.con for more information.
