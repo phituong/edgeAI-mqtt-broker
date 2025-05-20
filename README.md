@@ -17,16 +17,19 @@ Train and convert the model to TFLite format:
 - Located in broker/src/model/. These TFLite models are ready to run on microcontrollers for real-time inference.
 
 Confusion Matrix for the models at different dataset sizes:
+- Dataset size = 668 instances
 <p align="center">
   <img src="/668_int8.png" alt="Architecture Diagram" width="300"/>
   <img src="/668_float.png" alt="Architecture Diagram" width="300"/>
 </p>
 
+- Dataset size = 1815 instances
 <p align="center">
   <img src="/1815_int8.png" alt="Architecture Diagram" width="300"/>
   <img src="/1815_float.png" alt="Architecture Diagram" width="300"/>
 </p>
 
+- Dataset size = 6245 instances
 <p align="center">
   <img src="/6245_int8.png" alt="Architecture Diagram" width="300"/>
   <img src="/6245_float.png" alt="Architecture Diagram" width="300"/>
