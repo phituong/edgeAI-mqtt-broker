@@ -16,14 +16,30 @@ Train and convert the model to TFLite format:
 🤖 Trained Models
 - Located in broker/src/model/. These TFLite models are ready to run on microcontrollers for real-time inference.
 
+Confusion Matrix for the models at different dataset sizes:
 <p align="center">
-  <img src="/668_int.png" alt="Architecture Diagram" width="300"/>
+  <img src="/668_int8.png" alt="Architecture Diagram" width="200"/>
 </p>
 
 <p align="center">
-  <img src="/668_float.png" alt="Architecture Diagram" width="300"/>
+  <img src="/668_float.png" alt="Architecture Diagram" width="200"/>
 </p>
 
+<p align="center">
+  <img src="/1815_int8.png" alt="Architecture Diagram" width="200"/>
+</p>
+
+<p align="center">
+  <img src="/1815_float.png" alt="Architecture Diagram" width="200"/>
+</p>
+
+<p align="center">
+  <img src="/6245_int8.png" alt="Architecture Diagram" width="200"/>
+</p>
+
+<p align="center">
+  <img src="/6245_float.png" alt="Architecture Diagram" width="200"/>
+</p>
 
 📜 License
 - This project is released under the MIT License.
