@@ -2,7 +2,7 @@
 This project provides a lightweight anomaly detection system designed for IoT networks. It uses TensorFlow Lite models and deploys them on edge devices that run an MQTT broker, enabling real-time anomaly detection.
 
 Install dependencies and set up TensorFlow environment:
-   python setup_tensorflow.py
+   ./setup_tensorflow.sh
 
 Generate sample training data:
    python create_sample.py
@@ -18,4 +18,4 @@ Train and convert the model to TFLite format:
 
 📜 License
 - This project is released under the MIT License.
-- Please contract laulpt@gmail.con for more information.
+- Please contact laulpt@gmail.con for more information.
