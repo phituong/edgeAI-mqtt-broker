@@ -10,6 +10,9 @@ Generate sample training data:
 Train and convert the model to TFLite format:
    python training.py
 
+Test script runs on a computer as a mqtt client to send messages to the broker:
+connect_broker.py, subscribe.py, unsub.py
+
 🚀 Deployment Notes
 - The files in broker/src/ contain the core MQTT broker implementation that supports EdgeAI processing. These can be deployed to embedded systems (such as those running Zephyr OS). The broker manages MQTT messaging, communicates with IoT devices, and uses the trained models for on-device anomaly detection.
 
