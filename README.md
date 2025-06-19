@@ -41,4 +41,4 @@ Confusion Matrix for the int8 and float32 models at different dataset sizes (int
 
 📜 License
 - This project is released under the MIT License.
-- Please contact laulpt@gmail.con for more information.
+- Please contact laulpt@gmail.comfor more information.
