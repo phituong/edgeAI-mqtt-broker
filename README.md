@@ -41,4 +41,7 @@ Confusion Matrix for the int8 and float32 models at different dataset sizes (int
 
 📜 License
 - This project is released under the MIT License.
-- Please contact laulpt@gmail.com for more information.
+- For inquiries, please contact laulpt@gmail.com.
+- This project is described in the publication:
+Lau, P.T., and Katzenbeisser, S., "Detecting Anomalous Resource Consumption in EdgeAI-Based MQTT Brokers," in Proceedings of the 11th Workshop on the Security of Industrial Control Systems & Cyber-Physical Systems (CyberICPS) in conjunction with ESORICS, 2025.
+
