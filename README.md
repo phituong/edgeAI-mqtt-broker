@@ -1,3 +1,9 @@
+📜 License
+- This project is released under the MIT License.
+- For inquiries, please contact laulpt@gmail.com.
+- This project is described in the publication:
+Lau, P.T., and Katzenbeisser, S., "Detecting Anomalous Resource Consumption in EdgeAI-Based MQTT Brokers," in Proceedings of the 11th Workshop on the Security of Industrial Control Systems & Cyber-Physical Systems (CyberICPS) in conjunction with ESORICS, 2025.
+
 # EdgeAI MQTT Broker
 This project provides a lightweight anomaly detection system designed for IoT networks. It uses TensorFlow Lite models and deploys them on edge devices that run an MQTT broker, enabling real-time anomaly detection.
 
@@ -38,10 +44,4 @@ Confusion Matrix for the int8 and float32 models at different dataset sizes (int
   <img src="/6245_float.png" alt="Architecture Diagram" width="300"/>
 </p>
 
-
-📜 License
-- This project is released under the MIT License.
-- For inquiries, please contact laulpt@gmail.com.
-- This project is described in the publication:
-Lau, P.T., and Katzenbeisser, S., "Detecting Anomalous Resource Consumption in EdgeAI-Based MQTT Brokers," in Proceedings of the 11th Workshop on the Security of Industrial Control Systems & Cyber-Physical Systems (CyberICPS) in conjunction with ESORICS, 2025.
 
